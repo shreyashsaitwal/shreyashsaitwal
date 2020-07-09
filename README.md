@@ -6,5 +6,4 @@ Apart from coding, I love to design user interfaces for mobile and web apps. I a
 
 ### Get in touch with me
 - Twitter           [@ShreyashSaitwal](https://twitter.com/ShreyashSaitwal) <br>
-- Kodular community [@Shreyash](https://community.kodular.io/u/shreyash/summary)<br>
 - Telegram          [@ShreyashSaitwal](https://t.me/ShreyashSaitwal)
