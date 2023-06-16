@@ -4,8 +4,6 @@ I'm Shreyash, a software developer, passionate about learning new technologies a
 
 Apart from coding, I enjoy designing user interfaces for mobile and web apps. I also have a keen interest in physics and astronomy related stuff.<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyashSaitwal&count_private=true&show_icons=true&custom_title=My%20GitHub%20stats" align="center">
-
 ### Get in touch with me
 - Twitter           [@shreyashsaitwal](https://twitter.com/shreyashsaitwal) <br>
 - Telegram          [@shreyashsaitwal](https://t.me/shreyashsaitwal)
