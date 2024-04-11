@@ -1,6 +1,6 @@
 ## Heya! :wave: 
 
-I'm Shreyash, a software developer, passionate about learning new technologies and making stuff. I code in Java, Dart, and TypeScript.
+I'm Shreyash, a software developer, passionate about learning new technologies and making stuff. I code in languages like Kotlin, Rust, Typescript and Dart.
 
 Apart from coding, I enjoy designing user interfaces for mobile and web apps. I also have a keen interest in physics and astronomy related stuff.<br>
 
